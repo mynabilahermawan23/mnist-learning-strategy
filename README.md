@@ -47,7 +47,7 @@ Setiap gambar berukuran 28 x 28 piksel (hitam-putih).
 
 Catatan: pada Early Stopping, angka train dan validasi diambil dari epoch 12, sedangkan akurasi test dihitung dari model epoch 9 (kondisi terbaik).
 
-![Perbandingan akurasi](results/perbandingan.png)
+![Perbandingan akurasi](Results/perbandingan.png)
 
 Grafik loss dan akurasi tiap percobaan ada di folder [`results`](results).
 
