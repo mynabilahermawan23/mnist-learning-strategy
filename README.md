@@ -49,7 +49,7 @@ Catatan: pada Early Stopping, angka train dan validasi diambil dari epoch 12, se
 
 ![Perbandingan akurasi](Result/perbandingan.png)
 
-Grafik loss dan akurasi tiap percobaan ada di folder [`results`](results).
+Grafik loss dan akurasi tiap percobaan ada di folder [`Result`](Result).
 
 ## Kesimpulan
 
